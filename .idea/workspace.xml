@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c73bc110-1a6d-46e5-a17b-417c3542c7e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http/api/httpapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/http/api/httpapi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,8 @@
       <workItem from="1675754596187" duration="448000" />
       <workItem from="1675755057239" duration="164000" />
       <workItem from="1675755232617" duration="362000" />
-      <workItem from="1675755600318" duration="175000" />
+      <workItem from="1675755600318" duration="269000" />
+      <workItem from="1675755893397" duration="7000" />
     </task>
     <servers />
   </component>
