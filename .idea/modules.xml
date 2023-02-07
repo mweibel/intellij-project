@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/http/api/api.iml" filepath="$PROJECT_DIR$/http/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http/api/httpapi.iml" filepath="$PROJECT_DIR$/http/api/httpapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/intellij-project.iml" filepath="$PROJECT_DIR$/.idea/intellij-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/services/render/render.iml" filepath="$PROJECT_DIR$/services/render/render.iml" />
     </modules>
